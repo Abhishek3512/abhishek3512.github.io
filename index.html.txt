@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Software Developer | Pilot | Traveler</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my portfolio! I am a software developer with expertise in Java, Spring Boot, Angular, and more. Passionate about technology and always looking for new challenges.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Java</li>
+            <li>Spring Boot</li>
+            <li>Angular</li>
+            <li>Microservices</li>
+            <li>Web Development</li>
+            <li>Problem Solving</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1: Web Application</h3>
+            <p>A web app that helps manage tasks and schedules. Built using Java, Spring Boot, and Angular.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2: Trading Strategy</h3>
+            <p>Developed a refined EMA crossover strategy for trading, integrating volume for more accurate buy/sell signals.</p>
+        </div>
+        <!-- Add more projects here -->
+    </section>
+
+    <footer>
+        <p>Find me on GitHub: <a href="https://github.com/yourusername" target="_blank">GitHub Profile</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
